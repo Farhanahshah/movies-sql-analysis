@@ -1,2 +1,2 @@
-# netflix-data-analysis
-SQL analysis of Netflix titles using JOINs, CTEs and window functions to explore genres, ratings, countries and release trends
+# movies-sql-analysis
+SQL analysis of a movies database (7,997 movies) using JOINs, subqueries, CASE WHEN and aggregate functions to explore genres, ratings, release trends, actors and directors.
